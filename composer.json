@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ezsql/ezsql": "^5.1",
+        "nesbot/carbon": "^2.72"
+    }
+}
